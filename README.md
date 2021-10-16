@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushm-01
-- 👀 I’m interested in coding, ui designing and leanring new stuff.
+- 👀 I’m interested in coding, ui designing and learning new stuff.
 - 🌱 I’m currently learning Java
 
 <!---
